@@ -1,1 +1,1 @@
-# rethinkingStatistics
+# Statistical Rethinking - Richard McElreath
